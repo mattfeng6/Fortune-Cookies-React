@@ -2,8 +2,5 @@
 
 ## DEMO
 
-https://user-images.githubusercontent.com/54331576/211161855-7670580e-a592-4cc0-8886-0762e6045fbd.png
-
-https://user-images.githubusercontent.com/54331576/211161857-6bccdcde-364f-4fef-9e83-96f7821f3475.png
-
-https://user-images.githubusercontent.com/54331576/211161862-5cd763ca-3623-4433-9a0c-e29a81929b03.png
+![alt text](![image](https://user-images.githubusercontent.com/54331576/211161924-acbb809e-9a33-4c0a-b605-ef39edbd2f0c.png)
+)
